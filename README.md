@@ -1,4 +1,3 @@
-<h1 align="center">Hello world 👋, I'm 0x49535350</h1>
 <h3 align="center">A passionate cybersecurity proffesional</h3>
 
 <h3 align="left">Connect with me:</h3>
